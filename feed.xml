@@ -3,10 +3,30 @@
     <title>居米股市交易室</title>
     <link href="https://gontue5959.github.io/GoodstockWeb/feed.xml" rel="self" />
     <link href="https://gontue5959.github.io/GoodstockWeb" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2023-09-19T21:30:48+08:00</updated>
     <author>
         <name>居米Jimmy</name>
     </author>
     <id>https://gontue5959.github.io/GoodstockWeb</id>
 
+    <entry>
+        <title>123</title>
+        <author>
+            <name>居米Jimmy</name>
+        </author>
+        <link href="https://gontue5959.github.io/GoodstockWeb/123.html"/>
+        <id>https://gontue5959.github.io/GoodstockWeb/123.html</id>
+
+        <updated>2023-09-19T21:30:48+08:00</updated>
+            <summary>
+                <![CDATA[
+                    123🙂
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>123🙂</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
