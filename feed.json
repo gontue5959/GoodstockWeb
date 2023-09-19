@@ -15,14 +15,15 @@
             "url": "https://gontue5959.github.io/GoodstockWeb/123.html",
             "title": "123",
             "summary": "123🙂",
-            "content_html": "<p>123🙂</p>",
+            "content_html": "<p>123🙂</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://gontue5959.github.io/GoodstockWeb/media/posts/2/001.png\" alt=\"\" width=\"851\" height=\"600\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://gontue5959.github.io/GoodstockWeb/media/posts/2/responsive/001-xs.png 300w ,https://gontue5959.github.io/GoodstockWeb/media/posts/2/responsive/001-sm.png 480w ,https://gontue5959.github.io/GoodstockWeb/media/posts/2/responsive/001-md.png 768w ,https://gontue5959.github.io/GoodstockWeb/media/posts/2/responsive/001-lg.png 1024w ,https://gontue5959.github.io/GoodstockWeb/media/posts/2/responsive/001-xl.png 1360w ,https://gontue5959.github.io/GoodstockWeb/media/posts/2/responsive/001-2xl.png 1600w\"></figure>",
+            "image": "https://gontue5959.github.io/GoodstockWeb/media/posts/2/e3122129-403f-4853-9383-846725c51bd5.jpg",
             "author": {
                 "name": "居米Jimmy"
             },
             "tags": [
             ],
             "date_published": "2023-09-19T21:30:44+08:00",
-            "date_modified": "2023-09-19T21:30:48+08:00"
+            "date_modified": "2023-09-19T21:51:36+08:00"
         },
         {
             "id": "https://gontue5959.github.io/GoodstockWeb/weeklyreport04.html",

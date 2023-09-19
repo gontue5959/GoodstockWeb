@@ -3,7 +3,7 @@
     <title>居米股市交易室</title>
     <link href="https://gontue5959.github.io/GoodstockWeb/feed.xml" rel="self" />
     <link href="https://gontue5959.github.io/GoodstockWeb" />
-    <updated>2023-09-19T21:49:39+08:00</updated>
+    <updated>2023-09-19T21:51:36+08:00</updated>
     <author>
         <name>居米Jimmy</name>
     </author>
@@ -16,16 +16,20 @@
         </author>
         <link href="https://gontue5959.github.io/GoodstockWeb/123.html"/>
         <id>https://gontue5959.github.io/GoodstockWeb/123.html</id>
+        <media:content url="https://gontue5959.github.io/GoodstockWeb/media/posts/2/e3122129-403f-4853-9383-846725c51bd5.jpg" medium="image" />
 
-        <updated>2023-09-19T21:30:48+08:00</updated>
+        <updated>2023-09-19T21:51:36+08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://gontue5959.github.io/GoodstockWeb/media/posts/2/e3122129-403f-4853-9383-846725c51bd5.jpg" alt="" />
                     123🙂
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://gontue5959.github.io/GoodstockWeb/media/posts/2/e3122129-403f-4853-9383-846725c51bd5.jpg" class="type:primaryImage" alt="" /></p>
                 <p>123🙂</p>
+<figure class="post__image"><img loading="lazy"  src="https://gontue5959.github.io/GoodstockWeb/media/posts/2/001.png" alt="" width="851" height="600" sizes="(max-width: 48em) 100vw, 768px" srcset="https://gontue5959.github.io/GoodstockWeb/media/posts/2/responsive/001-xs.png 300w ,https://gontue5959.github.io/GoodstockWeb/media/posts/2/responsive/001-sm.png 480w ,https://gontue5959.github.io/GoodstockWeb/media/posts/2/responsive/001-md.png 768w ,https://gontue5959.github.io/GoodstockWeb/media/posts/2/responsive/001-lg.png 1024w ,https://gontue5959.github.io/GoodstockWeb/media/posts/2/responsive/001-xl.png 1360w ,https://gontue5959.github.io/GoodstockWeb/media/posts/2/responsive/001-2xl.png 1600w"></figure>
             ]]>
         </content>
     </entry>
