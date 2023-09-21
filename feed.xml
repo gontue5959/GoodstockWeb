@@ -3,12 +3,37 @@
     <title>居米股市交易室</title>
     <link href="https://jimmystock.com/feed.xml" rel="self" />
     <link href="https://jimmystock.com" />
-    <updated>2023-09-21T23:07:04+08:00</updated>
+    <updated>2023-09-21T23:34:07+08:00</updated>
     <author>
         <name>居米Jimmy</name>
     </author>
     <id>https://jimmystock.com</id>
 
+    <entry>
+        <title>權證實戰課</title>
+        <author>
+            <name>居米Jimmy</name>
+        </author>
+        <link href="https://jimmystock.com/warrantvideofree.html"/>
+        <id>https://jimmystock.com/warrantvideofree.html</id>
+        <media:content url="https://jimmystock.com/media/posts/9/YT-Feng-Mian.png" medium="image" />
+            <category term="權證"/>
+
+        <updated>2023-09-21T23:34:07+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jimmystock.com/media/posts/9/YT-Feng-Mian.png" alt="權證實戰課" />
+                    權證實戰教學，想要學會操作看這個影片就夠了 ! 一次交會你操作權證的所有必備知識 !
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jimmystock.com/media/posts/9/YT-Feng-Mian.png" class="type:primaryImage" alt="權證實戰課" /></p>
+                <h2>權證實戰教學，想要學會操作看這個影片就夠了 ! 一次交會你操作權證的所有必備知識 !</h2>
+<div class="post__iframe"><iframe loading="lazy" width="689" height="380" style="width: 689px; height: 380px;" src="https://www.youtube-nocookie.com/embed/9Jf7DFwp4Js?si=mMuHMosVLY5XpZ_5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>關鍵分點週報 — EP.4</title>
         <author>

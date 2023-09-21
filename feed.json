@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://jimmystock.com/warrantvideofree.html",
+            "url": "https://jimmystock.com/warrantvideofree.html",
+            "title": "權證實戰課",
+            "summary": "權證實戰教學，想要學會操作看這個影片就夠了 ! 一次交會你操作權證的所有必備知識 !",
+            "content_html": "<h2>權證實戰教學，想要學會操作看這個影片就夠了 ! 一次交會你操作權證的所有必備知識 !</h2>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"689\" height=\"380\" style=\"width: 689px; height: 380px;\" src=\"https://www.youtube-nocookie.com/embed/9Jf7DFwp4Js?si=mMuHMosVLY5XpZ_5\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://jimmystock.com/media/posts/9/YT-Feng-Mian.png",
+            "author": {
+                "name": "居米Jimmy"
+            },
+            "tags": [
+                   "權證"
+            ],
+            "date_published": "2023-09-21T23:29:22+08:00",
+            "date_modified": "2023-09-21T23:34:07+08:00"
+        },
+        {
             "id": "https://jimmystock.com/guan-jian-fen-dian-zhou-bao-ep4.html",
             "url": "https://jimmystock.com/guan-jian-fen-dian-zhou-bao-ep4.html",
             "title": "關鍵分點週報 — EP.4",
