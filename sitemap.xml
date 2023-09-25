@@ -5,7 +5,7 @@
 <loc>https://jimmystock.com/</loc>
 </url>
 <url>
-<loc>https://jimmystock.com/daily_20230922.html</loc>
+<loc>https://jimmystock.com/daily_20230922/</loc>
 <lastmod>2023-09-23T22:13:38+08:00</lastmod>
 <image:image>
 <image:loc>https://jimmystock.com/media/posts/10/Frame-82.png</image:loc>
@@ -33,7 +33,15 @@
 </image:image>
 </url>
 <url>
-<loc>https://jimmystock.com/quan-zheng-shi-zhan-ke.html</loc>
+<loc>https://jimmystock.com/day_20230925/</loc>
+<lastmod>2023-09-25T23:47:20+08:00</lastmod>
+<image:image>
+<image:loc>https://jimmystock.com/media/posts/14/Guan-Jian-Fen-Dian-Ri-Bao.png</image:loc>
+<image:title><![CDATA[關鍵分點日報分享]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jimmystock.com/quan-zheng-shi-zhan-ke/</loc>
 <lastmod>2023-09-22T23:18:17+08:00</lastmod>
 <image:image>
 <image:loc>https://jimmystock.com/media/posts/9/Frame-17-2.png</image:loc>
@@ -41,7 +49,7 @@
 </image:image>
 </url>
 <url>
-<loc>https://jimmystock.com/stock_5371_20230701.html</loc>
+<loc>https://jimmystock.com/stock_5371_20230701/</loc>
 <lastmod>2023-09-22T23:19:19+08:00</lastmod>
 <image:image>
 <image:loc>https://jimmystock.com/media/posts/4/Frame-81-2.png</image:loc>
@@ -49,7 +57,7 @@
 </image:image>
 </url>
 <url>
-<loc>https://jimmystock.com/weekly01.html</loc>
+<loc>https://jimmystock.com/weekly01/</loc>
 <lastmod>2023-09-22T23:05:28+08:00</lastmod>
 <image:image>
 <image:loc>https://jimmystock.com/media/posts/5/Frame-80-2.png</image:loc>
@@ -57,7 +65,7 @@
 </image:image>
 </url>
 <url>
-<loc>https://jimmystock.com/weekly02.html</loc>
+<loc>https://jimmystock.com/weekly02/</loc>
 <lastmod>2023-09-22T23:05:20+08:00</lastmod>
 <image:image>
 <image:loc>https://jimmystock.com/media/posts/6/Frame-79-2.png</image:loc>
@@ -65,7 +73,7 @@
 </image:image>
 </url>
 <url>
-<loc>https://jimmystock.com/weekly03.html</loc>
+<loc>https://jimmystock.com/weekly03/</loc>
 <lastmod>2023-09-22T23:05:13+08:00</lastmod>
 <image:image>
 <image:loc>https://jimmystock.com/media/posts/7/Frame-78-2.png</image:loc>
@@ -73,7 +81,7 @@
 </image:image>
 </url>
 <url>
-<loc>https://jimmystock.com/weekly04.html</loc>
+<loc>https://jimmystock.com/weekly04/</loc>
 <lastmod>2023-09-22T23:05:06+08:00</lastmod>
 <image:image>
 <image:loc>https://jimmystock.com/media/posts/8/Frame-12-2.png</image:loc>
